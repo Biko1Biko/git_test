@@ -1,1 +1,1 @@
-# git_test
+console.log("Hello world")
